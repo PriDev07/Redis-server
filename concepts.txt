@@ -1,0 +1,11 @@
+TCP/IP and socket programming
+Concurrency and multithreading
+Mutex and sync
+Data structures -> Hash tables, Vectors
+Parsing and resp protocol
+File I/O persistance
+Signal handlling 
+command processing and response formatting
+singleton pattern 
+bitwise operators(|=)
+std::
