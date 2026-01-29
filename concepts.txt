@@ -9,3 +9,10 @@ command processing and response formatting
 singleton pattern 
 bitwise operators(|=)
 std::
+
+
+RedisServer class
+
+RedisDatabase class
+
+RedisCommandHandler class
